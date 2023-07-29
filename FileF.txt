@@ -1,2 +1,7 @@
 FileF
+<<<<<<< HEAD
 new change2
+=======
+
+New change
+>>>>>>> eea8e55d40a544305808aae32fbf7f7e9cedc07c
